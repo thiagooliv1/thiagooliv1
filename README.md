@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago Oliveira 
 
-📚 Estou cursando Tecnologia de Desenvolvimento para Internet no IFMT Campus Cuiabá 
+📚 Estou cursando 2ª semestre de Sistemas para Internet no IFMT
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagooliv1&theme=dark&show_icons=true)
 
