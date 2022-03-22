@@ -2,7 +2,7 @@
 
 📚 Estou cursando Tecnologia de Desenvolvimento para Internet no IFMT Campus Cuiabá 
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagooliv1&theme=dracula&show_icons=true)
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagooliv1&theme=dark&show_icons=true)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-fran%C3%A7a-5a523017b/)
