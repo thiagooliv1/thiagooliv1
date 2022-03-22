@@ -2,7 +2,7 @@
 
 📚 Estou cursando 2ª semestre de Sistemas para Internet no IFMT
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagooliv1&theme=dark&show_icons=true)
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagooliv1&theme=github_dark&show_icons=true)
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagofrancaoliv@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-fran%C3%A7a-5a523017b/)
